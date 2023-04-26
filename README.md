@@ -36,4 +36,11 @@ Throughout the workshop, it's important to keep the participants engaged with in
 
 https://user-images.githubusercontent.com/131898609/234648213-cb83d2b6-9565-42a3-864d-ce95bef4a9cb.mp4
 
-<h1> You own a responsibility towards the netizens and your fellow mates safty and security under your mother land. </h1>
+Dear Cyberwarriors,
+
+As responsible citizens of our country, we have a shared responsibility to ensure the safety and security of our fellow netizens. It is our duty to uphold the values of our motherland and protect its citizens from any harm or threat in the online world.
+
+Thank you for your commitment to this cause and your efforts to make our online community a safer place for all. Together, we can work towards creating a secure and trustworthy digital environment.
+
+Best regards,
+Admin
