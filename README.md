@@ -36,4 +36,4 @@ Day 5: Closing Session and Certificate Ceremony
 
 Throughout the workshop, it's important to keep the participants engaged with interactive sessions, group discussions, and hands-on activities. Additionally, the instructors should be knowledgeable and experienced in the cybersecurity field and be able to provide practical insights and real-world examples.
 
-![security](https://user-images.githubusercontent.com/131898609/234641939-7cbc1e98-30bd-4e02-8f8d-74632ddb972c.png | width=100 | height=100 )
+![security](https://user-images.githubusercontent.com/131898609/234641939-7cbc1e98-30bd-4e02-8f8d-74632ddb972c.png | width=100)
