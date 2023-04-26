@@ -2,7 +2,7 @@
 
 A wonderful summer cybersecurity workshop should be informative, engaging, and interactive. Here's an example of how such a workshop could be conducted:
 
-[embed]https://github.com/CyberWarrior69/SummerCybersecurityWorkshop/blob/main/Ethical%20Hacking%20Workshop%20%F0%9F%93%A1%20(Beginner%20to%20Intermediate%20level)-1.pdf[/embed]
+[embed] https://github.com/CyberWarrior69/SummerCybersecurityWorkshop/blob/main/Ethical%20Hacking%20Workshop%20%F0%9F%93%A1%20(Beginner%20to%20Intermediate%20level)-1.pdf [/embed]
 
 Day 1: Introduction to Cybersecurity
 
