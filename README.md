@@ -1,7 +1,8 @@
 # SummerCybersecurityWorkshop
-![security](https://user-images.githubusercontent.com/131898609/234641939-7cbc1e98-30bd-4e02-8f8d-74632ddb972c.png)
 
 A wonderful summer cybersecurity workshop should be informative, engaging, and interactive. Here's an example of how such a workshop could be conducted:
+
+https://user-images.githubusercontent.com/131898609/234648213-cb83d2b6-9565-42a3-864d-ce95bef4a9cb.mp4
 
 Day 1: Introduction to Cybersecurity
 
@@ -34,3 +35,5 @@ Day 5: Closing Session and Certificate Ceremony
     Award certificates of completion to all participants and have a group photo session.
 
 Throughout the workshop, it's important to keep the participants engaged with interactive sessions, group discussions, and hands-on activities. Additionally, the instructors should be knowledgeable and experienced in the cybersecurity field and be able to provide practical insights and real-world examples.
+
+![security](https://user-images.githubusercontent.com/131898609/234641939-7cbc1e98-30bd-4e02-8f8d-74632ddb972c.png)
