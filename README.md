@@ -1,4 +1,5 @@
 # SummerCybersecurityWorkshop
+![security](https://user-images.githubusercontent.com/131898609/234641939-7cbc1e98-30bd-4e02-8f8d-74632ddb972c.png)
 
 A wonderful summer cybersecurity workshop should be informative, engaging, and interactive. Here's an example of how such a workshop could be conducted:
 
