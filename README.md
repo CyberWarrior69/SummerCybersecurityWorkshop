@@ -34,9 +34,25 @@ Day 5: Closing Session and Certificate Ceremony
 
 Throughout the workshop, it's important to keep the participants engaged with interactive sessions, group discussions, and hands-on activities. Additionally, the instructors should be knowledgeable and experienced in the cybersecurity field and be able to provide practical insights and real-world examples.
 
-https://user-images.githubusercontent.com/131898609/234648213-cb83d2b6-9565-42a3-864d-ce95bef4a9cb.mp4
+<img src="https://user-images.githubusercontent.com/131898609/234648213-cb83d2b6-9565-42a3-864d-ce95bef4a9cb.mp4">
 
-Dear Cyberwarriors,
+<br>
+<!--Github Progess bar-->
+
+# Quick Overview <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+    
+<a href="https://github.com/KVSSKPRADEEP/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KVSSKPRADEEP&show_icons=true&include_all_commits=true&theme=radical" alt="Pradeep's  stats" />
+</a>
+<a href="https://github.com/KVSSKPRADEEP/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KVSSKPRADEEP&layout=compact&theme=radical" />
+</a>
+
+</br>
+
+
+<h4> Dear Cyberwarriors,</h4>
 
 As responsible citizens of our country, we have a shared responsibility to ensure the safety and security of our fellow netizens. It is our duty to uphold the values of our motherland and protect its citizens from any harm or threat in the online world.
 
