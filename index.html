@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Portfolio Website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		header {
+			background-color: #333;
+			color: white;
+			padding: 10px;
+			text-align: center;
+		}
+
+		nav {
+			background-color: #f2f2f2;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			padding: 10px;
+		}
+
+		nav a {
+			color: #333;
+			font-weight: bold;
+			padding: 10px;
+			text-decoration: none;
+			text-transform: uppercase;
+			transition: 0.3s;
+		}
+
+		nav a:hover {
+			background-color: #333;
+			color: white;
+		}
+
+		section {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			padding: 10px;
+		}
+
+		section h2 {
+			font-size: 36px;
+			font-weight: bold;
+			margin-bottom: 20px;
+			text-align: center;
+			width: 100%;
+		}
+
+		section .card {
+			background-color: white;
+			border: 1px solid #ccc;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+			margin: 10px;
+			max-width: 300px;
+			padding: 20px;
+			text-align: center;
+			transition: 0.3s;
+		}
+
+		section .card:hover {
+			transform: scale(1.1);
+		}
+
+		section .card h3 {
+			font-size: 24px;
+			margin-bottom: 10px;
+		}
+
+		section .card p {
+			font-size: 18px;
+			margin-bottom: 20px;
+		}
+
+		section .card a {
+			background-color: #333;
+			border: none;
+			color: white;
+			font-weight: bold;
+			padding: 10px;
+			text-decoration: none;
+			transition: 0.3s;
+		}
+
+		section .card a:hover {
+			background-color: #f2f2f2;
+			color: #333;
+		}
+
+		footer {
+			background-color: #333;
+			color: white;
+			padding: 10px;
+			text-align: center;
+		}
+
+		footer p {
+			margin: 0;
+		}
+
+		@media screen and (max-width: 600px) {
+			section .card {
+				max-width: 100%;
+			}
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>My Portfolio</h1>
+		<p>Welcome to my portfolio website</p>
+	</header>
+
+	<nav>
+		<a href="#">Home</a>
+		<a href="#">About</
+    <a href="#">Portfolio</a>
+		<a href="#">Contact</a>
+	</nav>
+  <section>
+	<h2>My Projects</h2>
+
+	<div class="card">
+		<h3>Project 1</h3>
+		<p>Description of project 1.</p>
+		<a href="#">View Project</a>
+	</div>
+
+	<div class="card">
+		<h3>Project 2</h3>
+		<p>Description of project 2.</p>
+		<a href="#">View Project</a>
+	</div>
+
+	<div class="card">
+		<h3>Project 3</h3>
+		<p>Description of project 3.</p>
+		<a href="#">View Project</a>
+	</div>
+
+	<div class="card">
+		<h3>Project 4</h3>
+		<p>Description of project 4.</p>
+		<a href="#">View Project</a>
+	</div>
+
+</section>
+
+<footer>
+	<p>&copy; 2023 My Portfolio</p>
+</footer>
+</body>
+</html>
